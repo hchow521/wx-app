@@ -1,1 +1,0 @@
-<view class="title-wrap data-v-dcf4b5c6"><image class="title-icon data-v-dcf4b5c6" src="{{icon}}"></image><view class="title-text data-v-dcf4b5c6">{{title}}</view><slot></slot></view>
