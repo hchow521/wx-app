@@ -1,0 +1,30 @@
+.title-wrap.data-v-dcf4b5c6 {
+  width: 100%;
+  max-width: 750rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 28rpx;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.title-wrap .title-icon.data-v-dcf4b5c6 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 43rpx;
+          flex: 0 0 43rpx;
+  width: 43rpx;
+  height: 43rpx;
+  margin-right: 12rpx;
+}
+.title-wrap .title-text.data-v-dcf4b5c6 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #3A4044;
+  font-size: 30rpx;
+  font-weight: 500;
+}
+

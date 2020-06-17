@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/user/user",
+    "pages/list/list",
+    "pages/search/search",
+    "pages/details/details",
+    "pages/notice/notice"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#f5f5f5",
+    "navigationBarTitleText": "中国移动合作伙伴信息库"
+  },
+  "tabBar": {
+    "color": "#CBCCCE",
+    "selectedColor": "#0485D2",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/homeHL.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/userHL.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

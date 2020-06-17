@@ -1,0 +1,56 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页
+		{
+			"path": "pages/main/main"
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/list/list",
+			"style": {
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/details/details"
+		},
+		{
+			"path": "pages/notice/notice",
+			"style": {
+				"navigationBarTitleText": "公告详情"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#CBCCCE",
+		"selectedColor": "#0485D2",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/main/main",
+			"text": "首页",
+			"iconPath": "static/img/home.png",
+			"selectedIconPath": "static/img/homeHL.png"
+		}, {
+			"pagePath": "pages/user/user",
+			"text": "我的",
+			"iconPath": "static/img/user.png",
+			"selectedIconPath": "static/img/userHL.png"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#f5f5f5",
+		"navigationBarTitleText": "中国移动合作伙伴信息库"
+	}
+}

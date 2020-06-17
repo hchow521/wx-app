@@ -1,0 +1,29 @@
+.content-wrap.data-v-6d8bf126 {
+  padding: 15rpx 30rpx 30rpx;
+  margin-top: 18rpx;
+}
+.content-wrap .app-logo.data-v-6d8bf126 {
+  width: 183rpx;
+  height: 38rpx;
+}
+.content-wrap .notice-title.data-v-6d8bf126 {
+  font-size: 40rpx;
+  font-weight: 400;
+  color: #3A4044;
+  text-shadow: 0px 6rpx 30rpx rgba(173, 176, 179, 0.48);
+  text-align: center;
+  padding: 34rpx 0 52rpx;
+}
+.content-wrap .notice-img.data-v-6d8bf126 {
+  width: 100%;
+  box-shadow: 0px 6rpx 40rpx 0px #dfe3e6;
+  border-radius: 8rpx;
+}
+.notice-time.data-v-6d8bf126 {
+  font-size: 30rpx;
+  color: #B1B2B3;
+  line-height: 126rpx;
+  text-align: right;
+  padding: 0 30rpx;
+}
+

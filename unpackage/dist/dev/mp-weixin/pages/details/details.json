@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "title-wrap": "/components/title-wrap/title-wrap"
+  }
+}
